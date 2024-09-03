@@ -8,7 +8,7 @@ Light enhancement, edge enhancement,
 scale invariance, Translation Invariance, 
 Object segmentation, edge detection, color pruning, cluster filtering...
 
-![프로젝트 구조](이미지_URL)
+![프로젝트 구조](project_tree.png)
 ![실행 결과 예시](이미지_URL)
 
 ## 설치
