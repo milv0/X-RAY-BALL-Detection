@@ -8,8 +8,8 @@ Light enhancement, edge enhancement,
 scale invariance, Translation Invariance, 
 Object segmentation, edge detection, color pruning, cluster filtering...
 
-![프로젝트 구조](project_tree.png)
-![실행 결과 예시](result_sample.png)
+<img src="project_tree.png" width="300" alt="프로젝트 구조">
+<img src="result_sample.png" width="300" alt="실행 결과 예시">
 
 ## 설치
 ```bash
