@@ -1,14 +1,15 @@
 # 반도체 부품 볼 탐지
 
+컴퓨터 비전을 활용한 실시간 반도체 부품 (볼) 탐지
 
-간단한 프로젝트 설명을 여기에 작성합니다.
+## 사용 기술
+YOLO, Ultralytics, 
+Light enhancement, edge enhancement,
+scale invariance, Translation Invariance, 
+Object segmentation, edge detection, color pruning, cluster filtering...
 
-## 목차
-- [설치](#설치)
-- [사용법](#사용법)
-- [기능](#기능)
-- [기여하기](#기여하기)
-- [라이선스](#라이선스)
+![프로젝트 구조](이미지_URL)
+![실행 결과 예시](이미지_URL)
 
 ## 설치
 ```bash
